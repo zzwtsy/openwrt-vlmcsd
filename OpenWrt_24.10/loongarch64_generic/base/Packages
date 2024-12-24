@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: loongarch64_generic
 Installed-Size: 143360
 Filename: vlmcsd_svn1113-r2_loongarch64_generic.ipk
-Size: 65738
-SHA256sum: b89415b24f2507cd99a54c1fbdbda8d06102cb73bc5cf6e977974b2b63a53af6
+Size: 65707
+SHA256sum: 25f0009db9352dd86e2fbc02c71221f22f1ed6e71e7b7eb2eadbbc985daa5acd
 Description:  vlmcsd is a KMS Emulator in C.
 

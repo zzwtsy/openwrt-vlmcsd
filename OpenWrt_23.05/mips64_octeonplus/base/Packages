@@ -6,7 +6,7 @@ Section: net
 Architecture: mips64_octeonplus
 Installed-Size: 64853
 Filename: vlmcsd_svn1113-2_mips64_octeonplus.ipk
-Size: 65469
-SHA256sum: a6e59bfafeb5bf635d4efa52cde0395ea505431c3a2c2a7467f7567558dd6dc8
+Size: 65483
+SHA256sum: f9e4a005b29b0f72097e10db93ab786ea66d4ede787e1c982744417d3bdef646
 Description:  vlmcsd is a KMS Emulator in C.
 

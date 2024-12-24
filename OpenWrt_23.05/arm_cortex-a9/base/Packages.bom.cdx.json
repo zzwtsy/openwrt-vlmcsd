@@ -1,1 +1,1 @@
-{"components":[{"licenses":[{"license":{"name":"MIT"}}],"type":"application","name":"vlmcsd","version":"svn1113"}],"specVersion":"1.4","serialNumber":"urn:uuid:08d029c3-7134-4c8e-8619-03360818f644","version":1,"bomFormat":"CycloneDX","metadata":{"timestamp":"2024-12-22T02:45:08Z"}}
+{"serialNumber":"urn:uuid:233565a8-6655-4ac2-9d96-ca5f3b5ccbe3","specVersion":"1.4","bomFormat":"CycloneDX","version":1,"metadata":{"timestamp":"2024-12-24T02:40:20Z"},"components":[{"licenses":[{"license":{"name":"MIT"}}],"version":"svn1113","type":"application","name":"vlmcsd"}]}

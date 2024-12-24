@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: armeb_xscale
 Installed-Size: 133120
 Filename: vlmcsd_svn1113-r2_armeb_xscale.ipk
-Size: 62262
-SHA256sum: 70ee65ec3bc00d10a30d1d982dc1344b4355f13efe98d51b8d7bf2629adffd5a
+Size: 62216
+SHA256sum: 4b9d1e4b6e23e73cbca05242891b03e645dd8da0923403da5cb88e9da63c9df4
 Description:  vlmcsd is a KMS Emulator in C.
 
