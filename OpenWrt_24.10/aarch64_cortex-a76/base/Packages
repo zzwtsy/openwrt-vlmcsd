@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: aarch64_cortex-a76
 Installed-Size: 133120
 Filename: vlmcsd_svn1113-r2_aarch64_cortex-a76.ipk
-Size: 60879
-SHA256sum: 8385ed6b99bda2e9506e7a12e24a44ecb629e6dbf9d97f7b475ead97c8d1e00c
+Size: 60876
+SHA256sum: 28e6683ed9afb9d1c1ff78d8a3b0ac92be63dac7e3ec003dbafbeadd0a0ba739
 Description:  vlmcsd is a KMS Emulator in C.
 

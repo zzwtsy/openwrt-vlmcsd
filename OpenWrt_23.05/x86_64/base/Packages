@@ -6,8 +6,8 @@ Section: net
 Architecture: x86_64
 Installed-Size: 58097
 Filename: vlmcsd_svn1113-2_x86_64.ipk
-Size: 58871
-SHA256sum: 13b51d6377ddd1c76abaf89d83fb1fbe5a8077f95354110872dfb0f34ea5eb4c
+Size: 58846
+SHA256sum: 058153c67588e0d44ed12e69e7f824869cdb604a74a0e115668fb625c11e75b1
 Description:  vlmcsd is a KMS Emulator in C.
 
 
