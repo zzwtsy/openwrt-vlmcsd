@@ -9,9 +9,9 @@ Section: net
 SourceDateEpoch: 1727094886
 Maintainer: HotBird64
 Architecture: aarch64_generic
-Installed-Size: 60231
+Installed-Size: 60229
 Filename: vlmcsd_svn1113-2_aarch64_generic.ipk
-Size: 60808
-SHA256sum: 409a3bb5d5fe871f797ff6474867f2cf96c5dd5f3fa56b01dd3df279397bdec3
+Size: 60873
+SHA256sum: 85d60a686223ea0b9d67a213f45fd0856371cfc1b1866a13e75fe0e5d93347f8
 Description:  vlmcsd is a KMS Emulator in C.
 

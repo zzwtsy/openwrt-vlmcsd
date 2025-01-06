@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: powerpc64_e5500
 Installed-Size: 153600
 Filename: vlmcsd_svn1113-r2_powerpc64_e5500.ipk
-Size: 64306
-SHA256sum: 5d4243e819a595217ef5fa32bc6a9bca1fc14ad57753643611809659a5b02d64
+Size: 64299
+SHA256sum: 7993c789b693effca188cfd4f405091b797c4bc61654437c902e97f9cbefe0f8
 Description:  vlmcsd is a KMS Emulator in C.
 

@@ -6,7 +6,7 @@ Section: net
 Architecture: arm_mpcore
 Installed-Size: 61035
 Filename: vlmcsd_svn1113-2_arm_mpcore.ipk
-Size: 61787
-SHA256sum: 6d7641e42600446ad0fcf2fa3b61bffbc8d4fd5a8a5a57714634e1dc55223c7f
+Size: 61794
+SHA256sum: 9e5c4baa162277a3e3f87f85c1445c8e970df210e1795ecf300204254a1a4bde
 Description:  vlmcsd is a KMS Emulator in C.
 
