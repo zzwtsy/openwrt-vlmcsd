@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: mips64_mips64r2
 Installed-Size: 153600
 Filename: vlmcsd_svn1113-r2_mips64_mips64r2.ipk
-Size: 65081
-SHA256sum: a94305fe19c5112a71fe483faffcd625b91bd50f49b26b3f85361332ace0dacd
+Size: 65064
+SHA256sum: a0a3c90a7c98066bca6b722517453e0527240aa2c865c25a342f9c121865105b
 Description:  vlmcsd is a KMS Emulator in C.
 

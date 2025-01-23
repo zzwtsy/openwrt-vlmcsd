@@ -1,7 +1,7 @@
 OpenWrt 24.10 loongarch64_generic repository for vlmcsd
 ========
 
-Binaries built from this repository on 2025-01-06 can be downloaded from <https://dwfreed.github.io/openwrt-vlmcsd/>.
+Binaries built from this repository on 2025-01-23 can be downloaded from <https://dwfreed.github.io/openwrt-vlmcsd/>.
 
 To install the vlmcsd package, run
 
