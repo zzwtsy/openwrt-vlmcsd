@@ -6,13 +6,13 @@ SourceName: vlmcsd
 License: MIT
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1736026537
+SourceDateEpoch: 1737575574
 URL: http://forums.mydigitallife.info/threads/50234
 Maintainer: HotBird64
 Architecture: arm_cortex-a7
 Installed-Size: 133120
 Filename: vlmcsd_svn1113-r2_arm_cortex-a7.ipk
-Size: 61084
-SHA256sum: 349554921643d6d94ff38357528902402a4402228b160e295ef443c2ca063d52
+Size: 61077
+SHA256sum: 1126a880955f88f909e66688a8ad49f5e404f462b05b56fb3d192a1e80bddef3
 Description:  vlmcsd is a KMS Emulator in C.
 
