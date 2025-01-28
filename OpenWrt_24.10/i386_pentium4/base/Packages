@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: i386_pentium4
 Installed-Size: 122880
 Filename: vlmcsd_svn1113-r2_i386_pentium4.ipk
-Size: 55872
-SHA256sum: c95cbca2a098b388858e2625784d87a1f7ca0abfb88de2628f01fef779ba9952
+Size: 55868
+SHA256sum: 91794c2c649a282d72d7977bc5b16733edb290e039e6fd174a6876eef3a8894b
 Description:  vlmcsd is a KMS Emulator in C.
 

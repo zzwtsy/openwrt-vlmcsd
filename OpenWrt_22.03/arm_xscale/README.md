@@ -1,7 +1,7 @@
 OpenWrt 22.03 arm_xscale repository for vlmcsd
 ========
 
-Binaries built from this repository on 2025-01-24 can be downloaded from <https://dwfreed.github.io/openwrt-vlmcsd/>.
+Binaries built from this repository on 2025-01-28 can be downloaded from <https://dwfreed.github.io/openwrt-vlmcsd/>.
 
 To install the vlmcsd package, run
 
