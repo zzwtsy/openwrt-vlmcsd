@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: riscv64_riscv64
 Installed-Size: 122880
 Filename: vlmcsd_svn1113-r2_riscv64_riscv64.ipk
-Size: 61918
-SHA256sum: a59807ef90a148bba8b6a355917cd6ec34c5abdb170fd25aad06ca546f0db1fc
+Size: 61845
+SHA256sum: 93861712a0787f8e5590239f4241cc96259557a5c65de07cf3869ecb2a0dd66e
 Description:  vlmcsd is a KMS Emulator in C.
 
