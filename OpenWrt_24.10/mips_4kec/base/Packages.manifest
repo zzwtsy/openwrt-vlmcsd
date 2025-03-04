@@ -6,13 +6,13 @@ SourceName: vlmcsd
 License: MIT
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1738018409
+SourceDateEpoch: 1738624177
 URL: http://forums.mydigitallife.info/threads/50234
 Maintainer: HotBird64
 Architecture: mips_4kec
 Installed-Size: 112640
 Filename: vlmcsd_svn1113-r2_mips_4kec.ipk
-Size: 57524
-SHA256sum: fd1d74c342e1d7779f6f9001516070d5888b740a63f3596806c690e2fdd8d69c
+Size: 57506
+SHA256sum: 9e5c488e7c9ed803b09be9c24498a745768333edf33fbb3576f13d50e29f9d0a
 Description:  vlmcsd is a KMS Emulator in C.
 

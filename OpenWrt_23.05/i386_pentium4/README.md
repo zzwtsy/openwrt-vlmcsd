@@ -1,12 +1,12 @@
 OpenWrt 23.05 i386_pentium4 repository for vlmcsd
 ========
 
-Binaries built from this repository on 2025-01-29 can be downloaded from <https://dwfreed.github.io/openwrt-vlmcsd/>.
+Binaries built from this repository on 2025-03-04 can be downloaded from <https://zzwtsy.github.io/openwrt-vlmcsd/>.
 
 To install the vlmcsd package, run
 
 ```
-echo "src/gz openwrt-vlmcsd https://dwfreed.github.io/openwrt-vlmcsd/OpenWrt_23.05/i386_pentium4/base" >> /etc/opkg/customfeeds.conf
+echo "src/gz openwrt-vlmcsd https://zzwtsy.github.io/openwrt-vlmcsd/OpenWrt_23.05/i386_pentium4/base" >> /etc/opkg/customfeeds.conf
 opkg update
 opkg install vlmcsd
 ```

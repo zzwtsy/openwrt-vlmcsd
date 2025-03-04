@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: arm_arm1176jzf-s_vfp
 Installed-Size: 133120
 Filename: vlmcsd_svn1113-r2_arm_arm1176jzf-s_vfp.ipk
-Size: 61599
-SHA256sum: 8297a5308aa578eb782bcb9b1617da5b3082457d8532421582d14007cdb1bf9f
+Size: 61723
+SHA256sum: 40f968de3d89cce8cca3bce95a84c3b3dd3b42954c8bd0dc5932cc038f8d5c44
 Description:  vlmcsd is a KMS Emulator in C.
 

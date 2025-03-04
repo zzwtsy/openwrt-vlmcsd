@@ -7,7 +7,7 @@ URL: http://forums.mydigitallife.info/threads/50234
 Architecture: powerpc_8548
 Installed-Size: 143360
 Filename: vlmcsd_svn1113-r2_powerpc_8548.ipk
-Size: 67029
-SHA256sum: 2e933e088a36bece3a8622444888c14a63630dc2e199d01ed95bae57c3923822
+Size: 67032
+SHA256sum: 248172dd73ac2b8e5f600ea543986a72ec1a84dc7327cccffc50847588c6404c
 Description:  vlmcsd is a KMS Emulator in C.
 
