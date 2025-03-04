@@ -13,12 +13,12 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  git-author-name: Doug Freed
-  git-author-email: dwfreed@mtu.edu
+  git-author-name: zzwtsy
+  git-author-email: zzwtsy@yumdeb.top
   owrt-package: vlmcsd
-  repo-owner: dwfreed
+  repo-owner: zzwtsy
   repo-name: openwrt-vlmcsd
-  usign-key-name: Doug Freed
+  usign-key-name: zzwtsy
 
 jobs:
   matrix-setup:
